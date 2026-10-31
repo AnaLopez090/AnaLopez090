@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile
 
-Hello! I'm **Bao Han Pha**, a passionate developer with a strong commitment to building clean, scalable, and efficient software solutions. This repository serves as a showcase of my work, interests, and professional journey.
+Hello! I'm **Ana Lopez**, a passionate developer with a strong commitment to building clean, scalable, and efficient software solutions. This repository serves as a showcase of my work, interests, and professional journey.
 
 ## 🎯 About Me
 
@@ -55,7 +55,6 @@ I'm committed to continuous improvement and regularly:
 
 ## 📫 Get In Touch
 
-- **GitHub**: [@BaoHanPha](https://github.com/BaoHanPha)
 - **Email**: Open to opportunities and collaborations
 
 ## 💡 Philosophy
